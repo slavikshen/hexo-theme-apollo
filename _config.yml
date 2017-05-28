@@ -1,22 +1,22 @@
 menu:
-    Blog: /
-    Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
-    Rss: /atom.xml
+	Blog: /
+	Archive: /archives/
+	Twitter: https://twitter.com/slavikshen
+	GitHub: https://github.com/slavikshen
+	Rss: /atom.xml
 
 favicon: /favicon.png
 logo: /favicon.png
 
 # Comment
 # e.g disqus: seansun
-disqus:
+disqus: seansun
 duoshuo:
 cloudTie:
 
 # Analytics
 # google-analytics:
-ga: UA-65933410-1
+ga: UA-99998080-1
 
 # Copyright Infomation
-startyear: 2015
+startyear: 2017
